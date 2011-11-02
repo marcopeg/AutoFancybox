@@ -25,7 +25,7 @@ HTML Example:
 --------------------------------------------------
 
 <!-- IFRAME -->
-<a href="http://www.consulenza-web.com" title="Peg's Blog" 
+<a href="http://www.consulenza-web.com/" title="Peg's Blog" 
 	class="auto-fancybox" 
 	data-type="iframe" 
 	data-width="90%" 
